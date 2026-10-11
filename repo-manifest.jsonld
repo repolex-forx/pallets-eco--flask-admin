@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-admin/commit/9f0d23c03dcae17f6537667a4741cde85274d66e",
       "git:hexsha": "9f0d23c03dcae17f6537667a4741cde85274d66e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T05:30:53.446605+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pallets-eco/flask-admin/commit/b0ac34deb9d80aec9757a70b90e8439c87aa2582",

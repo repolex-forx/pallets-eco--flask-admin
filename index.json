@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": "flask-admin",
+  "versions": [
+    {
+      "commit": "9f0d23c03dcae17f6537667a4741cde85274d66e",
+      "tag": "",
+      "parsed_at": "2026-10-11T05:30:53.447340+00:00"
+    }
+  ]
+}
